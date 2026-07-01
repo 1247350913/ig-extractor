@@ -1,0 +1,24 @@
+{
+  "name": "ig-extractor",
+  "version": "1.0.0",
+  "description": "Shell script -- Automatically extract relevant ig data from browser -- Node.js",
+  "main": "extractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1247350913/ig-extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/1247350913/ig-extractor/issues"
+  },
+  "homepage": "https://github.com/1247350913/ig-extractor#readme",
+  "dependencies": {
+    "playwright": "^1.61.1"
+  }
+}
